@@ -1,0 +1,11 @@
+BLE peripheral:
+	- Add code
+	- Verify all data sent at once on command
+BLE peripheral and central:
+	- Add code
+	- Verify connection between phone and peripheral 
+	- Verify sending command to relay for data and retrieving it for 	both RPis
+Connections between all devices:
+	- Verify connections
+What to do first:
+	- Add laptop as HPU, or implement periodic and critical sending

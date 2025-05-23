@@ -1,0 +1,103 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;Application"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;Board Definition"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;nRF_BLE"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;nRF_BLE_Services"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;nRF_Drivers"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;nRF_Libraries"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;nRF_Oberon_Crypto"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;nRF_SoftDevice"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;Segger Startup Files"/>
+  <ProjectSessionItem path="usbd_cdc_acm_pca10059;usbd_cdc_acm_pca10059;UTF8/UTF16 converter"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="276" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/usb_handler.c" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="237" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="62" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/main.c" useBinaryEdit="0" left="0" path="../../../../../components/boards/boards.c" selected="0" top="52" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="110" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="100" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="134" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus2.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/common.h" selected="0" top="96" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="970" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus2.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/usb_handler.c" selected="0" top="928" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="16" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/main.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/usb_handler.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="495" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/device_conn.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/nus_handler.c" selected="0" top="490" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="38" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/main.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/nus_handler.h" selected="0" top="8" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1380" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus2.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/ble_nus_c2.c" selected="0" top="1325" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="144" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus_c2.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/ble_nus_c2.h" selected="0" top="103" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="2129" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/device_conn.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/ble_nus2.c" selected="0" top="2112" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="179" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus2.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/ble_nus2.h" selected="0" top="139" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="479" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/device_conn.c" selected="1" top="447" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="207" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/device_conn.h" selected="0" top="187" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="429" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/devices_tp.c" selected="0" top="397" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="24" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../OtherFiles/devices_tp.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="808" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus2.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/devices_conn_params.c" selected="0" top="793" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="28" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../OtherFiles/devices_conn_params.h" selected="0" top="9" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="117" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/util/sdk_errors.h" selected="0" top="13" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="150" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/util/app_error.h" selected="0" top="121" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="70" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus2.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/ble_link_ctx_manager/ble_link_ctx_manager.c" selected="0" top="34" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="69" useTextEdit="1" openedFrom="C:/NrfSDK2/components/libraries/usbd/class/cdc/acm/app_usbd_cdc_acm.c" useBinaryEdit="0" left="0" path="../../../../../components/softdevice/s140/headers/nrf_error.h" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="508" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/ble_advertising/ble_advertising.c" selected="0" top="459" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="87" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/ble_advertising/ble_advertising.h" selected="0" top="61" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="58" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../components/libraries/atomic/nrf_atomic.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="102" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/softdevice/common/nrf_sdh_ble.c" selected="0" top="95" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="57" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/main.c" useBinaryEdit="0" left="0" path="../../../../../components/boards/pca10059.h" selected="0" top="36" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="84" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/common/ble_conn_params.h" selected="0" top="64" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="252" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/common/ble_conn_params.c" selected="0" top="240" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="353" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/devices_conn_params.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/util/app_util.h" selected="0" top="324" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="242" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/timer/app_timer.h" selected="0" top="214" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="619" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/timer/app_timer2.c" selected="0" top="609" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="635" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus2.c" useBinaryEdit="0" left="0" path="../../../../../components/softdevice/s140/headers/ble_gatts.h" selected="0" top="587" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="161" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/nrf_ble_qwr/nrf_ble_qwr.h" selected="0" top="130" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="478" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus_c2.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/nrf_ble_gq/nrf_ble_gq.c" selected="0" top="489" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="95" useTextEdit="1" openedFrom="C:/NrfSDK2/components/ble/nrf_ble_gq/nrf_ble_gq.c" useBinaryEdit="0" left="0" path="../../../../../components/softdevice/s140/headers/ble_gattc.h" selected="0" top="64" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="98" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus_c2.c" useBinaryEdit="0" left="0" path="../../../../../components/softdevice/s140/headers/ble_gatt.h" selected="0" top="67" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1888" useTextEdit="1" openedFrom="C:/NrfSDK2/components/ble/ble_advertising/ble_advertising.c" useBinaryEdit="0" left="0" path="../../../../../components/softdevice/s140/headers/ble_gap.h" selected="0" top="1839" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="112" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/common/ble_advdata.h" selected="0" top="83" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="959" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/usb_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/usbd/class/cdc/acm/app_usbd_cdc_acm.c" selected="0" top="918" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="70" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/usb_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/usbd/app_usbd_serial_num.c" selected="0" top="41" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1383" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/usb_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/usbd/app_usbd.c" selected="0" top="1383" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="183" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/main.c" useBinaryEdit="0" left="0" path="../../../../../integration/nrfx/legacy/nrf_drv_clock.c" selected="0" top="139" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="299" useTextEdit="1" openedFrom="C:/NrfSDK2/integration/nrfx/legacy/nrf_drv_clock.c" useBinaryEdit="0" left="0" path="../../../../../components/softdevice/common/nrf_sdh.c" selected="0" top="268" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="180" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/usb_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/usbd/class/cdc/acm/app_usbd_cdc_acm.h" selected="0" top="144" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="536" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/softdevice/s140/headers/ble.h" selected="0" top="507" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="310" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus2.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/common/ble_srv_common.h" selected="0" top="284" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="4348" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/ble_nus_c2.c" useBinaryEdit="0" left="0" path="../../../../../modules/nrfx/mdk/nrf51_erratas.h" selected="0" top="4319" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="964" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/ble_db_discovery/ble_db_discovery.c" selected="0" top="935" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="979" useTextEdit="1" openedFrom="C:/NrfSDK2/examples/dongle_usb_crc_acm/OtherFiles/nus_handler.c" useBinaryEdit="0" left="0" path="../../../../../components/ble/nrf_ble_scan/nrf_ble_scan.c" selected="0" top="947" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="usbd_cdc_acm_pca10059" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
