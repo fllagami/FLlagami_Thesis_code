@@ -1,0 +1,9 @@
+psutil
+pyserial>=3.4
+
+[dev]
+coverage
+mock
+pylint
+pytest
+pytest-cov
